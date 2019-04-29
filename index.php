@@ -1,18 +1,25 @@
 <?php
 
 echo'Salut';
-echo'Hola !!!!!! Maximo';
-echo'njkno'
-?>
+
+
+?> 
+
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
     <title>Document</title>
 </head>
 <body>
     <h1>SALUTATION</h1>
+</head>
+<body>
+    <div id="yolo">un cube !!!</div>
+    <div id="cube">fjiejf</div>
 </body>
 </html>
