@@ -16,5 +16,6 @@ echo'Salut';
 </head>
 <body>
     <div id="yolo">un cube !!!</div>
+    <div id="cube">fjiejf</div>
 </body>
 </html>
