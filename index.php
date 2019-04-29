@@ -2,7 +2,7 @@
 
 echo'Salut';
 echo'Hola !!!!!! Maximo';
-
+echo'njkno'
 ?>
 <!DOCTYPE html>
 <html lang="fr">
